@@ -7,7 +7,7 @@ This portfolio shows the security work I’ve been doing while learning and buil
 
 ---
 
-## 🔐 Skills
+Skills
 
 **Security**
 - SOC analysis, threat detection, intrusion detection  
@@ -27,7 +27,7 @@ This portfolio shows the security work I’ve been doing while learning and buil
 
 ---
 
-## 📂 Projects
+Projects
 
 ### **1. Network Intrusion Detection with Snort**  
 Folder: `/Snort-Intrusion-Detection`  
@@ -58,12 +58,11 @@ Folder: `/File-Integrity-Monitor`
 Monitors selected files, creates hashes, and logs changes when something is modified.
 
 ---
-
-## 📄 Resume
+Resume
 The full version is in `/Resume/Resume.md`.  
 You can also add a PDF version later.
 
 ---
 
-## 📬 Contact
+Contact
 For project walkthroughs or collaboration, reach me at **kannurchetan55@gmail.com**.
