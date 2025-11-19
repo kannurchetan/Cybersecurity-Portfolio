@@ -1,0 +1,7 @@
+Example Snort Alerts:
+
+01/10-12:45:33.123456 [**] [1:1000001:1] NMAP Scan Detected [**]
+SRC: 192.168.1.10 DST: 192.168.1.5
+
+01/10-12:46:10.445678 [**] [1:1000002:1] Suspicious ICMP Traffic [**]
+SRC: 192.168.1.10 DST: 192.168.1.5
