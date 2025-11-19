@@ -1,0 +1,15 @@
+import re
+
+with open("examples/auth.log","r") as f:
+    logs = f.readlines()
+
+failed = []
+for line in logs:
+    if "Failed password" in line:
+        failed.append(line)
+
+with open("failed_logins.txt","w") as f:
+    for item in failed:
+        f.write(item)
+
+print("Extracted failed login attempts.")
