@@ -1,0 +1,7 @@
+timestamp,user,action,value
+2025-01-01 10:00:00,alice,login,success
+2025-01-01 10:05:00,bob,download,500
+2025-01-01 10:10:00,alice,download,5200
+2025-01-01 10:11:00,charlie,login_failed,1
+2025-01-01 10:11:05,charlie,login_failed,1
+2025-01-01 10:11:10,charlie,login_failed,1
